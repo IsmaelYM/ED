@@ -16,7 +16,7 @@ public class Instrumento
 		
 		
 
-//prueba Github
+//prueba Github1
 		public Instrumento(String nom, char afin)
 		{
 			super();
